@@ -1,3 +1,13 @@
+Assessment 3: Research Repository
+
+Create a research repository that includes:
+
+a collection of your own codes
+codes that you've been inspired by or practiced (with comments)
+things that you think are interesting or just don't understand (with comments)
+
+The following is the codes that was used to develope a help desk ticking system
+
 # ticket5016
 Ticketing System
 Internal Ticketing System
