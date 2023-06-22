@@ -8,6 +8,26 @@ things that you think are interesting or just don't understand (with comments)
 
 The following is the codes that was used to develope a help desk ticking system
 
+# My Code that I've been practiced
+# Personal Assistance Code
+
+This repository contains the code for a simple personal assistant that provides assistance to users in various areas, such as weather forecast, news updates and the potential to develop further for future use.
+
+# Techonologies used
+
+The code for this project was written in Python.  To build the processing functionality, I've used the pycharm, which is a free. I am still learning how to make use of some external APIs to provide weather forecasts and news updates.
+
+# Features
+
+This personal assistant can be used to perform several tasks such as: 
+
+Fetching the current weather forecast
+Fetching the latest news headlines
+
+The assistant will greet you and ask you what you need help with.  You can then give it commands such as "What's the weather like?" and the assistant will execute the command and provide you with the appropriate information.
+
+
+# Internal Ticketing System - Assessment 2
 # ticket5016
 Ticketing System
 Internal Ticketing System
